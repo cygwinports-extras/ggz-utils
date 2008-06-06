@@ -1,0 +1,8 @@
+category: Games
+requires: cygwin libggz2 libggzcore9
+sdesc: "GGZ Gaming Zone utilities"
+ldesc: "Several small utilities have been combined into this package. 
+The GGZ Metaserver is part of it, as is ggz-cmd, the command client for 
+the server. Developers can make use of the communication protocol 
+generator (ggzcommgen). Also, a collection of MOTDs and a telnet wrapper 
+is included for server admins."
